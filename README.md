@@ -1,3 +1,9 @@
+ <div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 align="center">Hi! I'm Lkemao <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></summary>
+  </ul>
+</div>
+
 # 💫 About Me:
 <br>I'm a Software Engineering student at the Polytechnic University of Catalonia (UPC) with a strong interest in backend development. I enjoy solving complex problems and building efficient, scalable systems. Always eager to learn and improve.
 
